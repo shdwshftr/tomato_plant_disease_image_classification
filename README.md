@@ -38,6 +38,7 @@ tomato_deployment.py
 ## Results
 * The CNN model achieved an accuracy of 86.38% in predicting the tomato plant disease correctly.
 * The web app can run smoothly and give the predicted outcome displayed along with the image.
+![webapp_screenshot](https://github.com/user-attachments/assets/081041cb-b98d-40c0-b358-37e2dfd39224)
 
 ## Conclusion
 Conclusion are written inside the jupyter notebook (last part).
